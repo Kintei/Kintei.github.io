@@ -1,5 +1,5 @@
 ---
-title: "웹 서비스 기본 구조 정리"
+title: "[모의해킹] 01. 웹 서비스 기본 구조 정리"
 date: 2026-05-05
 categories: [web, network, security]
 tags: [network, web-server, was, database, docker, apm]
