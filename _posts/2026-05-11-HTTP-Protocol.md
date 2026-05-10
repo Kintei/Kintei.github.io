@@ -4,6 +4,7 @@ date: 2026-05-11
 categories: [security study]
 tags: [HTTP, network]
 ---
+
 ## HTTP 란
 
 - HTTP는 HyperText Transfer Protocol 또는 HyperTexT Protocol의 약자이다.
