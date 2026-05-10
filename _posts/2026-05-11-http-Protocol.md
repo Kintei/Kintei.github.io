@@ -37,7 +37,7 @@ tags: [network, http]
 
 [Body 부분]
 ~~~
- #### 예시
+#### 예시
 ~~~
 GET /index.html HTTP/1.1
 Host: example.com
@@ -95,8 +95,7 @@ Content-Length: 58
 8. CONNECT : 클라이언트가 특정 종류의 프록시 서버에게 연결을 요청한다.
 9. OPTIONS : 해당 URL에서 지원하는 요청 메세지의 목록을 요청한다.
 
- ### HTTP 메서드 속성
-
+#### HTTP 메서드 속성
 | HTTP 메서드 | 요청 Body 유무 | 응답 Body 유무 | 안전  | 멱등(Idempotent) | 캐시 가능 |
 | :------: | :--------: | :--------: | :-: | :------------: | :---: |
 |   GET    |    아니오     |     예      |  예  |       예        |   예   |
