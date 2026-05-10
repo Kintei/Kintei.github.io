@@ -1,5 +1,6 @@
 ---
-title: "[모의해킹] 02. HTTP 프로토콜"
+layout: single
+title:  "[모의해킹] 02. HTTP 프로토콜"
 date: 2026-05-11
 categories: [security study]
 tags: [network, HTTP]
