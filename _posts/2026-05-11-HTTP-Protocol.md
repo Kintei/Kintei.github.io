@@ -1,12 +1,10 @@
 ---
 title: "[모의해킹] 02. HTTP 프로토콜"
 date: 2026-05-11
-categories:
-  - security study
-tags:
-  - HTTP
-  - network
+categories: [security study]
+tags: [network, HTTP]
 ---
+
 ## HTTP 란
 
 - HTTP는 HyperText Transfer Protocol 또는 HyperTexT Protocol의 약자이다.
