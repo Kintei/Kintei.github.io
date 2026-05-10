@@ -29,13 +29,13 @@ tags: [network, HTTP]
 - HTTP 요청의 경우 아래 형태의 구조로 이루어져 있으며, 보통 페이지 요청, 로그인 요청 등이 있다.
 
 #### 형식
-~~~
+~~~text
 [메서드] [요청파일명] [HTTP 버전]
 [헤더 이름]: [헤더 값]
 [헤더 이름]: [헤더 값]
 
 [Body 부분]
-~~~
+~~~text
  #### 예시
 ~~~
 GET /index.html HTTP/1.1
@@ -44,7 +44,7 @@ User-Agent: Mozilla/5.0
 Content-Type: application/x-www-form-urlencoded
 ~~~
 
-~~~
+~~~text
 POST /login HTTP/1.1
 Host: example.com
 User-Agent: Mozilla/5.0
@@ -59,7 +59,7 @@ username=test&password=1234
 - HTTP 응답의 경우 클라이언트의 요청에 의한 서버의 응답값 이다.
 
 #### 형식
-~~~
+~~~text
 [HTTP 버전] [상태 코드] [상태 메시지]
 [헤더 이름]: [헤더 값]
 [헤더 이름]: [헤더 값]
@@ -67,7 +67,7 @@ username=test&password=1234
 [Body 부분]
 ~~~
  #### 예시
-~~~
+~~~text
 HTTP/1.1 200 OK
 Date: Mon, 11 May 2026 12:00:00 GMT
 Server: nginx
