@@ -1,9 +1,13 @@
 ---
 layout: single
-title:  "[모의해킹] 03. HTTP 프로토콜"
+title: "[모의해킹] 04. 인증과 인가"
 date: 2026-05-11
-categories: [security study]
-tags: [network, Authentication, Authorization]
+categories:
+  - security study
+tags:
+  - network
+  - Authentication
+  - Authorization
 ---
 
 ## 인증(Authentication)
@@ -54,3 +58,23 @@ tags: [network, Authentication, Authorization]
 
 
 ## 인가(Authorization)
+
+- 사용자, 시스템, 서비스 등이 특정 자원(데이터, 파일, 기능, API 등)에 접근하거나 작업을 수행할 권한이 있는지 확인하고, 허가 또는 거부하는 프로세스입니다.
+- 인증(Authentication)이 “누구인지 확인하는 과정”이라면, 인가(Authorization)는 “무엇을 할 수 있는지 결정하는 과정”입니다.
+- 인증에 성공한 사용자라도 권한이 없는 자원이나 기능에는 접근할 수 없도록 제한하는 핵심 보안 단계입니다.
+
+### 인가의 기능
+
+1. 접근 제어(Access Control)
+	- 사용자가 인증(Authentication)을 마친 후 특정 데이터, API, 파일, 관리자 페이지 등에 접근할 수 있는지 권한을 확인합니다.
+	- 예) 로그인한 사용자가 관리자 페이지에 접근하려 할 때 관리자 권한이 있는지 확인합니다.
+2. 권한 허가/거부
+	- 사용자 ID, 역할(Role), 권한(Permission), 세션, 토큰(JWT) 등을 기반으로 허용된 작업(읽기, 쓰기, 수정, 삭제 등)만 수행하도록 제한합니다.
+	- 예) 일반 사용자는 게시글 조회만 가능하고, 작성자나 관리자는 수정/삭제가 가능하도록 제한합니다.
+3. 보안 및 리소스 보호
+	- 인증된 사용자라도 권한이 없는 중요 데이터나 기능에는 접근하지 못하게 하여 시스템 보안을 유지합니다.
+	- 예) 관리자 권한은 주요 관리 페이지에 접근할 수 있고, 일반 사용자 권한은 일반 기능만 사용할 수 있습니다.
+
+
+
+
