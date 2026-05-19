@@ -42,7 +42,8 @@ tags:
 	- 일반적으로는 2FA도 MFA 포함시키지만 좁은 의미로는 3개 이상을 의미할때 사용
 
 ### 웹 서비스에서의 인증 흐름
-![[Authentication Flows in Web Services.png]]
+
+![인증 흐름](../images/Authentication_Flows_in_Web_Services.png)
 
 ### 주요 인증 수단 및 기술
 1. ID/PW 로그인
