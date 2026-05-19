@@ -43,7 +43,7 @@ tags:
 
 ### 웹 서비스에서의 인증 흐름
 
-![인증 흐름](../images/Authentication_Flows_in_Web_Services.png)
+![인증 흐름](../../../../images/Authentication_Flows_in_Web_Services.png)
 
 ### 주요 인증 수단 및 기술
 1. ID/PW 로그인
