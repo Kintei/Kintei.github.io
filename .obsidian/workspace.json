@@ -180,8 +180,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ddfb62e4d582e5b5",
+  "active": "03f46a40255f9756",
   "lastOpenFiles": [
+    "_posts/2026-05-11-http-Protocol.md",
+    "_posts/2026-05-14-Authentication-and-Authorization.md",
     "images/Authentication_Flows_in_Web_Services.png",
     "images/2.png",
     "images/auth_flow_dark_background.png",
@@ -194,10 +196,8 @@
     "새 폴더",
     "assets/images/Authentication Flows in Web Services.png",
     "무제.md",
-    "_posts/2026-05-14-Authentication-and-Authorization.md",
     "Pasted image 20260514062303.png",
     "2026-05-11.md",
-    "_posts/2026-05-11-http-Protocol.md",
     "_posts/2026-05-05-web-service-basic-structure.md",
     "_posts/2026-05-11-HTTP-Protocol.md",
     "_posts/2026-05-05-first.md"
