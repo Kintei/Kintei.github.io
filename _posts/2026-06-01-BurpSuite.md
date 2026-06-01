@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "[모의해킹] 04. Brup 및 Proxy"
+title: "[모의해킹] 04. Burp 및 Proxy"
 date: 2026-06-01
 categories:
   - security study
 tags:
-  - Brup_Suite
+  - Burp_Suite
   - Web_Proxy
 ---
 # Burp Suite와 Web Proxy 정리
