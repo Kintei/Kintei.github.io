@@ -223,7 +223,7 @@ Burp Suite는 PortSwigger에서 만든 웹 애플리케이션 보안 테스트 �
 
 웹 브라우저와 웹 서버 사이에 Proxy로 위치하여 HTTP/HTTPS 요청과 응답을 확인하고, 수정하고, 반복 전송하고, 자동화된 테스트를 수행할 수 있다.
 
-Burp Suite는 웹 취약점 진단, 모의해킹, CTF, 웹 보안 학습에서 많이 사용된다.
+Burp Suite는 웹 취약점 진단, 모의해킹, CTF, 웹 보안 학습에서 널리 사용된다.
 
 대표적인 기능은 다음과 같다.
 
@@ -310,7 +310,7 @@ Professional Edition은 유료 버전이다.
 
 * Community 기능 포함
 * 자동 취약점 스캐너 사용 가능
-* Intruder 속도 제한 완화
+* Intruder 속도 제한이 적음
 * 고급 분석 기능 제공
 * Collaborator 기능 활용 가능
 * 업무용 웹 취약점 진단에 적합
@@ -536,7 +536,7 @@ Scope를 설정하면 다음과 같은 장점이 있다.
 * HTTP History 관리가 쉬워짐
 * 불필요한 외부 요청 제거 가능
 * 실수로 다른 사이트를 테스트하는 것을 방지
-* Scanner나 Intruder 사용 시 범위 통제 가능
+* Scanner나 Intruder 사용 시 테스트 범위 통제 가능
 * 허가된 범위 안에서만 테스트하기 쉬움
 
 보안 테스트에서는 Scope를 명확히 설정하는 것이 중요하다.
@@ -832,7 +832,8 @@ Extensions는 보통 BApp Store 또는 직접 작성한 확장 코드로 설치�
 * 특정 취약점 탐지 보조
 * 반복 작업 자동화
 * 커스텀 Payload 생성
-* Java, Python 기반 확장 기능 사용
+* Java 기반 확장 기능 사용
+* 일부 확장은 Jython/JRuby 환경을 통해 Python/Ruby 문법으로 작성 가능
 * 테스트 결과 정리
 * 외부 도구와 연동
 
