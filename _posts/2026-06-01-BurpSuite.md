@@ -711,7 +711,7 @@ Payload 목록이 다음과 같다면,
 
 Intruder는 요청을 여러 번 보내며 각각의 응답을 비교할 수 있게 해준다.
 
-#### Community(무료)와 Professional(유로) 차이
+#### Community(무료)와 Professional(유료) 차이
 
 Community Edition에서도 Intruder를 사용할 수 있지만 속도나 기능에 제한이 있다.
 Professional Edition에서는 더 빠르고 다양한 방식으로 Intruder를 활용할 수 있다.
