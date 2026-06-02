@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb16c111d60c5bf",
+        "id": "b85ff25d1d015232",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1b5ece4cac7a15",
+            "id": "03f46a40255f9756",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -180,27 +181,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ea1b5ece4cac7a15",
+  "active": "03f46a40255f9756",
   "lastOpenFiles": [
-    "_posts/2026-06-02-anyThing.md",
+    "_posts/2026-05-14-Authentication-and-Authorization.md",
     "images/Authentication_Flows_in_Web_Services.png",
     "images/Proxy_Tool_Description.png",
-    "_posts/2026-06-01-BurpSuite.md",
-    "_posts/2026-05-14-Authentication-and-Authorization.md",
-    "2026-05-29.md",
-    "_posts/2026-05-11-http-Protocol.md",
-    "images/2.png",
-    "images/auth_flow_dark_background.png",
-    "images/1.png",
-    "images/web_authentication_flow_diagram_transparent.png",
-    "images/Authentication Flows in Web Services.png",
-    "assets/images/catppuccin_mocha-skin-archive-large.png",
-    "images/catppuccin_mocha-skin-archive-large.png",
     "images",
-    "새 폴더",
-    "assets/images/Authentication Flows in Web Services.png",
+    "_posts/2026-06-01-BurpSuite.md",
+    "2026-05-29.md",
     "무제.md",
+    "Pasted image 20260514062303.png",
     "2026-05-11.md",
+    "_posts/2026-05-11-http-Protocol.md",
     "_posts/2026-05-05-web-service-basic-structure.md",
     "_posts/2026-05-11-HTTP-Protocol.md",
     "_posts/2026-05-05-first.md"
